@@ -1,0 +1,24 @@
+.heading{
+    background-color:gray;
+    text-align: center;
+    width: 94rem;
+    height: 6rem;
+}
+#main{
+    text-align: center;
+}
+#option{
+    font-size: 1.5rem;
+}
+#btn{
+    border: 1px solid black;
+    border-radius: 20rem;
+    width: fit-content;
+    height: fit-content;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding: 1rem;
+    margin-top: 2rem;
+    background-color: coral;
+}
